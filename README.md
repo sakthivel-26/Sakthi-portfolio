@@ -70,8 +70,6 @@ To contribute:
 4. Push to the branch (`git push origin feature-name`).
 5. Create a Pull Request.
 
-Please review the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ---
 
 ## 📄 License
